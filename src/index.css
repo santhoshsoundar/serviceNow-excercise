@@ -11,11 +11,12 @@
   --highlight-bg-light: #b6cbdd27;
   --background: #f4f7f9;
   --header-background: #282c34;
+  --content-shadow: #00000033;
 
   /* layout */
   --content-margin: 4em;
   --content-padding: 4em;
-  --border-radius: 10px;
+  --border-radius: 5px;
 
   /* custom font sizes */
   --default-font: 16px;

@@ -4,7 +4,7 @@ import "./App.css";
 import CodeBlock from "./components/CodeBlock/CodeBlock";
 
 function App() {
-  const componentDocu = `        
+  const documentation = `        
     // Sample documentation
     function docAPI() {
       ...
@@ -24,7 +24,7 @@ function App() {
         </a>
       </header>
       <div className="content">
-        <CodeBlock textContent={componentDocu} />
+        <CodeBlock textContent={documentation} />
       </div>
     </div>
   );
