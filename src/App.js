@@ -18,7 +18,7 @@ function App() {
         <a
           class="code-link"
           target="blank"
-          href="https://github.com/santhoshsoundar/roll-rates-analysis"
+          href="https://github.com/santhoshsoundar/serviceNow-excercise"
         >
           {"<GitHub>"}
         </a>
